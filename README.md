@@ -1,6 +1,6 @@
 # Hi, I'm Mohith Sai
 
-I'm a student developer from Hyderabad, India, focused on building practical software, fixing real bugs, and contributing to open-source projects.
+I'm a student developer from Hyderabad, India, focused on building practical software, fixing real bugs, and contributing to open-source projects with the help of AI.
 
 ## What I'm working on
 
@@ -14,7 +14,7 @@ I'm a student developer from Hyderabad, India, focused on building practical sof
 - **Backend:** Node.js, Express, REST APIs
 - **Frontend:** HTML, CSS, React basics
 - **Tools:** Git, GitHub, Vercel, npm, pytest, Node test runner
-- **Interests:** developer tools, automation, API integrations, open-source bounties
+- **Interests:** developer tools, automation, API integrations, open-source bounties, video editing.
 
 ## Recent open-source work
 
