@@ -1,4 +1,4 @@
-# Hi, I'm Mohith Sai Vulisi 👋
+# Hi, I'm Mohith Sai Vulisi
 
 **Data Analyst · AI Systems Orchestrator · AI-Native Developer**  
 *MLR Institute of Technology · B.Tech CSE (Data Science) · Hyderabad, India*
@@ -7,12 +7,12 @@ I build high-throughput data pipelines, machine learning inference apps, autonom
 
 ---
 
-### 📖 Featured: [Developer Chronicles, Vol. 01](https://github.com/ACHARYA-SAMA/mohith-portfolio)
+### Featured: [Developer Chronicles, Vol. 01](https://github.com/ACHARYA-SAMA/mohith-portfolio)
 An interactive 3D manga volume (*tankōbon*) library showcasing my engineering journey — built with Three.js, React Three Fiber, custom GLSL arc-length curl shaders, and synthesized Web Audio foley.
 
 ---
 
-### 🚀 Flagship Systems & Projects
+### Flagship Systems & Projects
 
 * **[STAR98 Student Performance Dashboard](https://github.com/mohithvulisi/star98-student-performance-dashboard)**  
   *Python · Pandas · Plotly · Streamlit · Statsmodels*  
@@ -48,7 +48,7 @@ An interactive 3D manga volume (*tankōbon*) library showcasing my engineering j
 
 ---
 
-### 🛠️ Tech Stack & Tooling
+### Tech Stack & Tooling
 
 * **Languages:** Python (Primary), SQL, JavaScript (ES6+), C
 * **Data Science & ML:** Pandas, NumPy, Scikit-Learn, Plotly, Streamlit, Statsmodels, EDA
@@ -58,7 +58,7 @@ An interactive 3D manga volume (*tankōbon*) library showcasing my engineering j
 
 ---
 
-### 📬 Connect With Me
+### Connect With Me
 
 * **LinkedIn:** [linkedin.com/in/mohith-sai-vulisi-692b3a388](https://linkedin.com/in/mohith-sai-vulisi-692b3a388)
 * **LeetCode:** [leetcode.com/u/FvZpxu9yqi](https://leetcode.com/u/FvZpxu9yqi)
