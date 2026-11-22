@@ -63,11 +63,11 @@ An interactive 3D manga volume (*tankōbon*) library showcasing my engineering j
 ### GitHub Activity & Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohithvulisi&show_icons=true&theme=radical&border_radius=8" alt="Mohith&#39;s GitHub Stats" height="165" />
-  <img src="https://streak-stats.demolab.com?user=mohithvulisi&theme=radical&border_radius=8" alt="GitHub Streak" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mohithvulisi&show_icons=true&theme=default&border_radius=8" alt="Mohith&#39;s GitHub Stats" height="165" />
+  <img src="https://streak-stats.demolab.com?user=mohithvulisi&theme=github-light&border_radius=8" alt="GitHub Streak" height="165" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohithvulisi&layout=compact&theme=radical&border_radius=8" alt="Top Languages" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohithvulisi&layout=compact&theme=default&border_radius=8" alt="Top Languages" height="165" />
 </p>
 
 ---
