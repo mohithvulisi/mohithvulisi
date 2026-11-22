@@ -1,4 +1,4 @@
-# Hi, I'm Mohith Sai Vulisi
+# ✦ 𝐌𝐨𝐡𝐢𝐭𝐡 𝐒𝐚𝐢 𝐕𝐮𝐥𝐢𝐬𝐢 ✦
 
 **Data Analyst · AI Systems Orchestrator · AI-Native Developer**  
 *MLR Institute of Technology · B.Tech CSE (Data Science) · Hyderabad, India*
@@ -63,11 +63,11 @@ An interactive 3D manga volume (*tankōbon*) library showcasing my engineering j
 ### GitHub Activity & Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohithvulisi&show_icons=true&theme=default&border_radius=8" alt="Mohith&#39;s GitHub Stats" height="165" />
-  <img src="https://streak-stats.demolab.com?user=mohithvulisi&theme=github-light&border_radius=8" alt="GitHub Streak" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mohithvulisi&show_icons=true&bg_color=ffffff&title_color=b8860b&text_color=24292f&icon_color=b8860b&border_color=d0d7de&border_radius=8" alt="Mohith&#39;s GitHub Stats" height="165" />
+  <img src="https://streak-stats.demolab.com?user=mohithvulisi&background=ffffff&border=d0d7de&stroke=b8860b&ring=b8860b&fire=b8860b&currStreakNum=24292f&sideNums=24292f&currStreakLabel=b8860b&sideLabels=57606a&border_radius=8" alt="GitHub Streak" height="165" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohithvulisi&layout=compact&theme=default&border_radius=8" alt="Top Languages" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohithvulisi&layout=compact&bg_color=ffffff&title_color=b8860b&text_color=24292f&border_color=d0d7de&border_radius=8" alt="Top Languages" height="165" />
 </p>
 
 ---
