@@ -1,4 +1,4 @@
-# ✦ 𝐌𝐨𝐡𝐢𝐭𝐡 𝐒𝐚𝐢 𝐕𝐮𝐥𝐢𝐬𝐢 ✦
+# 𝐌𝐨𝐡𝐢𝐭𝐡 𝐒𝐚𝐢 𝐕𝐮𝐥𝐢𝐬𝐢
 
 **Data Analyst · AI Systems Orchestrator · AI-Native Developer**  
 *MLR Institute of Technology · B.Tech CSE (Data Science) · Hyderabad, India*
